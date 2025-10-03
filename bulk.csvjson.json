@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Slide 1",
+    "intertitle": "Introduction",
+    "longText": "Voici un texte plus long qui explique...",
+    "imageUrl": "https://site/img1.jpg",
+    "logoUrl": "https://site/logo.png"
+  },
+  {
+    "title": "Slide 2",
+    "intertitle": "Méthodologie",
+    "longText": "Ce paragraphe détaille le process en entier…",
+    "imageUrl": "https://site/img2.jpg",
+    "logoUrl": "https://site/logo.png"
+  }
+]

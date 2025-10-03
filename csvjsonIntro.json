@@ -1,0 +1,65 @@
+{
+  "L’optimisation du poids des fichiers Illustrator": {
+    "TItre": "Introduction",
+    "Chapeau": "Réduisez le poids des fichiers Illustrator créés par vos équipes métiers (design et développement produit)",
+    "Intro": "En appliquant les bonnes règles de gestion des images numériques.",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  },
+  "L'automatisation des plans de collection visuels": {
+    "TItre": "Introduction",
+    "Chapeau": "Automatisez vos plans de collection pour suivre efficacement l'état d'avancement de votre collection.",
+    "Intro": "Le plan de collection visuel synthétise l'ensemble des produits d'une collection, classifiés selon des critères spécifiques (famille de produit, thème, couleur, matière, etc.). Ce document est essentiel pour le suivi et la validation des modèles.",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  },
+  "Migration vers Adobe Illustrator": {
+    "TItre": "Introduction",
+    "Chapeau": "Adoptez le logiciel de dessin de référence dans l'industrie de la mode pour la création et le développement de vos collections.",
+    "Intro": "Illustrator est devenu le logiciel incontournable qui couvre les besoins des équipes créatives et techniques. Il est compatible avec les principaux PLM du marché, ce qui en fait un standard mondial.La migration vers Illustrator consiste à déployer l'application au sein d'un bureau de création ou d'un bureau d'études en appliquant les bonnes pratiques métiers.",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  },
+  "Intégration Illustrator avec le PLM": {
+    "TItre": "Introduction",
+    "Chapeau": "Adoptez le logiciel de dessin de référence dans l'industrie de la mode pour la création et le développement de vos collections.",
+    "Intro": "Adoptez le logiciel de dessin de référence dans l'industrie de la mode pour la création et le développement de vos collections. De nombreuses marques utilisent un PLM (Product Lifecycle Management) pour le suivi du cycle de développement des collections. Ce PLM centralise les informations des produits et génère les dossiers techniques. Pour faciliter le travail des designers et les laisser travailler dans leur environnement de design, les croquis Illustrator sont exportés vers le PLM via des plugins ou extensions communément appelés \"connecteurs\".",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  },
+  "Implémentation dossier techniqe Adobe (Illustrator ou Indesign)": {
+    "TItre": "Introduction",
+    "Chapeau": "Structurez vos dossiers techniques dans les applications Adobe Illustrator ou InDesign.",
+    "Intro": "Le dossier technique est un document essentiel qui rassemble l'ensemble des informations stylistiques et techniques du modèle. C'est un outil de communication clé avec les fournisseurs, permettant de spécifier précisément les caractéristiques du modèle.Ce document collaboratif est complété par divers métiers (stylistes, modélistes, développeurs produits, chefs de produit).",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  },
+  "La gestion des assets numériques Adobe Bridge": {
+    "TItre": "Introduction",
+    "Chapeau": "Mettez de l'ordre dans l'accès à vos ressources numériques (croquis, graphismes, dessins textiles, photos, dossiers techniques) afin de ne plus perdre du temps à rechercher vos fichiers",
+    "Intro": "Mettez de l'ordre dans l'accès à vos ressources numériques (croquis, graphismes, dessins textiles, photos, dossiers techniques) afin de ne plus perdre du temps à rechercher vos fichiers. En contribuant à une amélioration de la gestion de vos ressources numériques, Adobe Bridge facilite l'accès à vos fichiers de création ou de production.Adobe Bridge est un gestionnaire de ressources numériques (DAM) facile à utiliser pour les designers, permettant de parcourir et de rechercher visuellement les fichiers graphiques sur divers espaces de stockage.",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  },
+  "La mise en place des bibliothèques Adobe locales et Cloud": {
+    "TItre": "Introduction",
+    "Chapeau": "Les assets numériques créés par vos collaborateurs constituent la richesse graphique de votre entreprise.",
+    "Intro": "Centralisez-les à l'aide des bibliothèques Cloud. Les bibliothèques locales ou Cloud sont un lieu unique de stockage des ressources graphiques réutilisables, facilitant les flux de travail et renforçant votre stratégie digitale de gestion des assets numériques.",
+    "@Image": "",
+    "@Images": "",
+    "@Images__1": "",
+    "@Images__2": ""
+  }
+}
